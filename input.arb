@@ -1,8 +1,18 @@
 {
-  "failedGenerationTryAgain": "Image generation failed, try again.",
-  "@failedGenerationTryAgain": {},
-  "generatingImage": "Generating image",
-  "@generatingImage": {},
-  
-  
+  "history": "history",
+  "@history": {},
+  "imageHistory": "Image History",
+  "@imageHistory": {},
+  "importSuccessful": "Import Successful",
+  "@importSuccessful": {},
+  "importFailed": "Import Failed",
+  "@importFailed": {},
+  "shareImage": "shareImage",
+  "@shareImage": {},
+  "selectBackupFile": "Select Backup File",
+  "@selectBackupFile": {},
+  "selectBackupLocation": "Select Backup Location",
+  "@selectBackupLocation": {},
+  "backupFailed": "Backup Failed",
+  "@backupFailed": {},
 }

@@ -1,4 +1,10 @@
 {
-  "failedGenerationTryAgain": "画像の生成に失敗しました。もう一度お試しください。",
-  "@failedGenerationTryAgain": {},  "generatingImage": "画像の生成",
-  "@generatingImage": {},}
+  "history": "歴史",
+  "@history": {}、  "imageHistory": "画像履歴",
+  "@imageHistory": {},  "importSuccessful": "インポート成功",
+  "@importSuccessful": {},  "importFailed": "インポートに失敗しました",
+  "@importFailed": {},  "shareImage": "画像を共有する",
+  "@shareImage": {},  "selectBackupFile": "バックアップファイルの選択",
+  "@selectBackupFile": {},  "selectBackupLocation": "バックアップ場所の選択",
+  "@selectBackupLocation": {},  "backupFailed": "バックアップに失敗しました",
+  "@backupFailed": {},}

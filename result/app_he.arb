@@ -1,4 +1,10 @@
 {
-  "failedGenerationTryAgain": "יצירת התמונה נכשלה, נסה שוב.",
-  "@failedGenerationTryAgain": {},  "generatingImage": "יצירת תמונה",
-  "@generatingImage": {},}
+  "history": "הִיסטוֹרִיָה",
+  "@history": {},  "imageHistory": "היסטוריית תמונות",
+  "@imageHistory": {},  "importSuccessful": "הייבוא ​​הצליח",
+  "@importSuccessful": {},  "importFailed": "הייבוא ​​נכשל",
+  "@importFailed": {},  "shareImage": "שתף תמונה",
+  "@shareImage": {},  "selectBackupFile": "בחר קובץ גיבוי",
+  "@selectBackupFile": {},  "selectBackupLocation": "בחר מיקום גיבוי",
+  "@selectBackupLocation": {},  "backupFailed": "הגיבוי נכשל",
+  "@backupFailed": {},}

@@ -1,4 +1,10 @@
 {
-  "failedGenerationTryAgain": "Falha na geração da imagem. Tente novamente.",
-  "@failedGenerationTryAgain": {},  "generatingImage": "Gerando imagem",
-  "@generatingImage": {},}
+  "history": "história",
+  "@history": {},  "imageHistory": "Histórico de imagens",
+  "@imageHistory": {},  "importSuccessful": "Importação bem-sucedida",
+  "@importSuccessful": {},  "importFailed": "Falha na importação",
+  "@importFailed": {},  "shareImage": "compartilhar imagem",
+  "@shareImage": {},  "selectBackupFile": "Selecione o arquivo de backup",
+  "@selectBackupFile": {},  "selectBackupLocation": "Selecione o local de backup",
+  "@selectBackupLocation": {},  "backupFailed": "Falha no backup",
+  "@backupFailed": {},}

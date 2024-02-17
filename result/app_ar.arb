@@ -1,4 +1,10 @@
 {
-  "failedGenerationTryAgain": "فشل إنشاء الصورة، حاول مرة أخرى.",
-  "@failedGenerationTryAgain": {},  "generatingImage": "توليد الصورة",
-  "@generatingImage": {},}
+  "history": "تاريخ",
+  "@history": {},  "imageHistory": "تاريخ الصورة",
+  "@imageHistory": {},  "importSuccessful": "تم الاستيراد بنجاح",
+  "@importSuccessful": {},  "importFailed": "فشل الاستيراد",
+  "@importFailed": {},  "shareImage": "مشاركة الصورة",
+  "@shareImage": {},  "selectBackupFile": "حدد ملف النسخ الاحتياطي",
+  "@selectBackupFile": {},  "selectBackupLocation": "حدد موقع النسخ الاحتياطي",
+  "@selectBackupLocation": {},  "backupFailed": "فشل النسخ الاحتياطي",
+  "@backupFailed": {},}

@@ -1,4 +1,10 @@
 {
-  "failedGenerationTryAgain": "Die Bildgenerierung ist fehlgeschlagen. Versuchen Sie es erneut.",
-  "@failedGenerationTryAgain": {},  "generatingImage": "Bild erzeugen",
-  "@generatingImage": {},}
+  "history": "Geschichte",
+  "@history": {},  "imageHistory": "Bildgeschichte",
+  "@imageHistory": {},  "importSuccessful": "Import erfolgreich",
+  "@importSuccessful": {},  "importFailed": "Import fehlgeschlagen",
+  "@importFailed": {},  "shareImage": "Bild teilen",
+  "@shareImage": {},  "selectBackupFile": "Wählen Sie Sicherungsdatei",
+  "@selectBackupFile": {},  "selectBackupLocation": "Wählen Sie den Backup-Speicherort aus",
+  "@selectBackupLocation": {},  "backupFailed": "Sicherung fehlgeschlagen",
+  "@backupFailed": {},}

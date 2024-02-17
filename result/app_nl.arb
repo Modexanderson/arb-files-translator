@@ -1,4 +1,10 @@
 {
-  "failedGenerationTryAgain": "Het genereren van afbeeldingen is mislukt. Probeer het opnieuw.",
-  "@failedGenerationTryAgain": {},  "generatingImage": "Beeld genereren",
-  "@generatingImage": {},}
+  "history": "geschiedenis",
+  "@history": {},  "imageHistory": "Beeldgeschiedenis",
+  "@imageHistory": {},  "importSuccessful": "Importeren succesvol",
+  "@importSuccessful": {},  "importFailed": "Importeren mislukt",
+  "@importFailed": {},  "shareImage": "Deel afbeelding",
+  "@shareImage": {},  "selectBackupFile": "Selecteer Back-upbestand",
+  "@selectBackupFile": {},  "selectBackupLocation": "Selecteer Back-uplocatie",
+  "@selectBackupLocation": {},  "backupFailed": "Back-up mislukt",
+  "@backupFailed": {},}

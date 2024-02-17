@@ -1,4 +1,10 @@
 {
-  "failedGenerationTryAgain": "ছবি তৈরি করা ব্যর্থ হয়েছে, আবার চেষ্টা করুন।",
-  "@failedGenerationTryAgain": {},  "generatingImage": "ইমেজ তৈরি করা হচ্ছে",
-  "@generatingImage": {},}
+  "history": "ইতিহাস",
+  "@history": {},  "imageHistory": "ছবির ইতিহাস",
+  "@imageHistory": {},  "importSuccessful": "আমদানি সফল",
+  "@importSuccessful": {},  "importFailed": "আমদানি ব্যর্থ হয়েছে৷",
+  "@importFailed": {},  "shareImage": "ছবি শেয়ার করুন",
+  "@shareImage": {},  "selectBackupFile": "ব্যাকআপ ফাইল নির্বাচন করুন",
+  "@selectBackupFile": {},  "selectBackupLocation": "ব্যাকআপ অবস্থান নির্বাচন করুন",
+  "@selectBackupLocation": {},  "backupFailed": "ব্যাকআপ ব্যর্থ হয়েছে৷",
+  "@backupFailed": {},}

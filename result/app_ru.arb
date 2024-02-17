@@ -1,4 +1,10 @@
 {
-  "failedGenerationTryAgain": "Не удалось создать изображение. Повторите попытку.",
-  "@failedGenerationTryAgain": {},  "generatingImage": "Создание изображения",
-  "@generatingImage": {},}
+  "history": "история",
+  "@history": {},  "imageHistory": "История изображений",
+  "@imageHistory": {},  "importSuccessful": "Импорт успешен",
+  "@importSuccessful": {},  "importFailed": "Импорт не выполнен",
+  "@importFailed": {},  "shareImage": "поделиться изображением",
+  "@shareImage": {},  "selectBackupFile": "Выберите файл резервной копии",
+  "@selectBackupFile": {},  "selectBackupLocation": "Выберите место резервного копирования",
+  "@selectBackupLocation": {},  "backupFailed": "Резервное копирование не выполнено",
+  "@backupFailed": {},}

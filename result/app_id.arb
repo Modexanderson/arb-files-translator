@@ -1,4 +1,10 @@
 {
-  "failedGenerationTryAgain": "Pembuatan gambar gagal, coba lagi.",
-  "@failedGenerationTryAgain": {},  "generatingImage": "Menghasilkan gambar",
-  "@generatingImage": {},}
+  "history": "sejarah",
+  "@history": {},  "imageHistory": "Sejarah Gambar",
+  "@imageHistory": {},  "importSuccessful": "Impor Berhasil",
+  "@importSuccessful": {},  "importFailed": "Impor Gagal",
+  "@importFailed": {},  "shareImage": "bagikanGambar",
+  "@shareImage": {},  "selectBackupFile": "Pilih File Cadangan",
+  "@selectBackupFile": {},  "selectBackupLocation": "Pilih Lokasi Cadangan",
+  "@selectBackupLocation": {},  "backupFailed": "Pencadangan Gagal",
+  "@backupFailed": {},}
