@@ -1,10 +1,5 @@
 {
-  "history": "تاریخ",
-  "@history": {}،  "imageHistory": "تصویری تاریخ",
-  "@imageHistory": {}،  "importSuccessful": "درآمد کامیاب",
-  "@importSuccessful": {}،  "importFailed": "درآمد کرنے میں ناکام",
-  "@importFailed": {}،  "shareImage": "تصویر شیئر کریں۔",
-  "@shareImage": {}،  "selectBackupFile": "بیک اپ فائل کو منتخب کریں۔",
-  "@selectBackupFile": {}،  "selectBackupLocation": "بیک اپ لوکیشن منتخب کریں۔",
-  "@selectBackupLocation": {}،  "backupFailed": "بیک اپ ناکام ہو گیا۔",
-  "@backupFailed": {}،}
+  "deleteAccount": "کھاتہ مٹا دو",
+  "@deleteAccount": {},  "deleteAccountConfitmation": "کیا آپ واقعی اپنا Imagen اکاؤنٹ حذف کرنا چاہتے ہیں؟",
+  "@deleteAccountConfitmation": {},  "deleteAccountNote": "نوٹ: اگر آپ اپنا اکاؤنٹ حذف کر دیتے ہیں تو آپ کا تمام ڈیٹا ضائع ہو جائے گا بشمول آپ کے امیجین کریڈٹس!",
+  "@deleteAccountNote": {},}

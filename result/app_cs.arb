@@ -1,10 +1,5 @@
 {
-  "history": "Dějiny",
-  "@history": {},  "imageHistory": "Historie obrázků",
-  "@imageHistory": {},  "importSuccessful": "Import byl úspěšný",
-  "@importSuccessful": {},  "importFailed": "Import se nezdařil",
-  "@importFailed": {},  "shareImage": "shareImage",
-  "@shareImage": {},  "selectBackupFile": "Vyberte Záložní soubor",
-  "@selectBackupFile": {},  "selectBackupLocation": "Vyberte Umístění zálohy",
-  "@selectBackupLocation": {},  "backupFailed": "Zálohování se nezdařilo",
-  "@backupFailed": {},}
+  "deleteAccount": "Smazat účet",
+  "@deleteAccount": {},  "deleteAccountConfitmation": "Opravdu chcete smazat svůj účet Imagen?",
+  "@deleteAccountConfitmation": {},  "deleteAccountNote": "Poznámka: Pokud smažete svůj účet, všechna vaše data budou ztracena, včetně vašich kreditů Imagen!",
+  "@deleteAccountNote": {},}

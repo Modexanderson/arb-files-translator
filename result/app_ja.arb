@@ -1,10 +1,5 @@
 {
-  "history": "歴史",
-  "@history": {}、  "imageHistory": "画像履歴",
-  "@imageHistory": {},  "importSuccessful": "インポート成功",
-  "@importSuccessful": {},  "importFailed": "インポートに失敗しました",
-  "@importFailed": {},  "shareImage": "画像を共有する",
-  "@shareImage": {},  "selectBackupFile": "バックアップファイルの選択",
-  "@selectBackupFile": {},  "selectBackupLocation": "バックアップ場所の選択",
-  "@selectBackupLocation": {},  "backupFailed": "バックアップに失敗しました",
-  "@backupFailed": {},}
+  "deleteAccount": "アカウントを削除する",
+  "@deleteAccount": {},  "deleteAccountConfitmation": "Imagen アカウントを削除してもよろしいですか",
+  "@deleteAccountConfitmation": {},  "deleteAccountNote": "注: アカウントを削除すると、Imagen クレジットを含むすべてのデータが失われます。",
+  "@deleteAccountNote": {},}

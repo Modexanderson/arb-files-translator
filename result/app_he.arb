@@ -1,10 +1,5 @@
 {
-  "history": "הִיסטוֹרִיָה",
-  "@history": {},  "imageHistory": "היסטוריית תמונות",
-  "@imageHistory": {},  "importSuccessful": "הייבוא ​​הצליח",
-  "@importSuccessful": {},  "importFailed": "הייבוא ​​נכשל",
-  "@importFailed": {},  "shareImage": "שתף תמונה",
-  "@shareImage": {},  "selectBackupFile": "בחר קובץ גיבוי",
-  "@selectBackupFile": {},  "selectBackupLocation": "בחר מיקום גיבוי",
-  "@selectBackupLocation": {},  "backupFailed": "הגיבוי נכשל",
-  "@backupFailed": {},}
+  "deleteAccount": "מחק חשבון",
+  "@deleteAccount": {},  "deleteAccountConfitmation": "האם אתה בטוח שברצונך למחוק את חשבון Imagen שלך",
+  "@deleteAccountConfitmation": {},  "deleteAccountNote": "הערה: אם תמחק את חשבונך, כל הנתונים שלך יאבדו כולל זיכוי ה-Image שלך!",
+  "@deleteAccountNote": {},}

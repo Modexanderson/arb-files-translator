@@ -1,10 +1,5 @@
 {
-  "history": "storia",
-  "@history": {},  "imageHistory": "Storia delle immagini",
-  "@imageHistory": {},  "importSuccessful": "Importazione riuscita",
-  "@importSuccessful": {},  "importFailed": "Importazione non riuscita",
-  "@importFailed": {},  "shareImage": "condividiImage",
-  "@shareImage": {},  "selectBackupFile": "Seleziona File di backup",
-  "@selectBackupFile": {},  "selectBackupLocation": "Seleziona Posizione di backup",
-  "@selectBackupLocation": {},  "backupFailed": "Backup non riuscito",
-  "@backupFailed": {},}
+  "deleteAccount": "Eliminare l'account",
+  "@deleteAccount": {},  "deleteAccountConfitmation": "Sei sicuro di voler eliminare il tuo account Imagen?",
+  "@deleteAccountConfitmation": {},  "deleteAccountNote": "Nota: se elimini il tuo account, tutti i tuoi dati andrebbero persi, compresi i tuoi crediti Imagen!",
+  "@deleteAccountNote": {},}

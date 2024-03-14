@@ -1,10 +1,5 @@
 {
-  "history": "வரலாறு",
-  "@history": {},  "imageHistory": "பட வரலாறு",
-  "@imageHistory": {},  "importSuccessful": "இறக்குமதி வெற்றி",
-  "@importSuccessful": {},  "importFailed": "இறக்குமதி தோல்வி",
-  "@importFailed": {},  "shareImage": "படத்தைப் பகிரவும்",
-  "@shareImage": {},  "selectBackupFile": "காப்பு கோப்பைத் தேர்ந்தெடுக்கவும்",
-  "@selectBackupFile": {},  "selectBackupLocation": "காப்புப்பிரதி இருப்பிடத்தைத் தேர்ந்தெடுக்கவும்",
-  "@selectBackupLocation": {},  "backupFailed": "காப்புப்பிரதி தோல்வியடைந்தது",
-  "@backupFailed": {},}
+  "deleteAccount": "கணக்கை நீக்குக",
+  "@deleteAccount": {},  "deleteAccountConfitmation": "உங்கள் Imagen கணக்கை நிச்சயமாக நீக்க விரும்புகிறீர்களா",
+  "@deleteAccountConfitmation": {},  "deleteAccountNote": "குறிப்பு: உங்கள் கணக்கை நீக்கினால், உங்கள் இமேஜன் கிரெடிட்கள் உட்பட உங்களின் எல்லா தரவும் இழக்கப்படும்!",
+  "@deleteAccountNote": {},}
